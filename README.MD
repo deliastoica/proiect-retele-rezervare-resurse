@@ -3,8 +3,8 @@
 Acest proiect reprezinta implementarea temei 04 - Rezervarea de resurse pentru seminarul de Retele de Calculatoare. Aplicatia urmeaza o arhitectura client-server concurenta, utilizand socket-uri TCP native in Java 21 pentru comunicare si sincronizare in timp real.
 
 ## Realizator Proiect
-* Nume Student: [Numele Tau]
-* Grupa: [Grupa Ta]
+* Nume Student: Stoica Delia-Cătălina, Speriatu Andreea-Bianca
+* Grupa: 1095
 
 ---
 

@@ -49,9 +49,3 @@ Dupa introducerea unui username valid la pornirea clientului, sunt disponibile u
 
 ## Robustete si Tratarea Deconectarilor
 Aplicatia include un mecanism de siguranta in clasa ClientHandler executat in blocuri de tip finally. In cazul in care un client se deconecteaza brusc (inchidere terminal, pierdere conexiune), serverul intercepteaza evenimentul asincron, curata toate structurile de tip Lock active asociate acelui utilizator si賈notifica restul retelei, prevenind blocarea resurselor la infinit.
-
----
-
-## Video Demonstrativ
-Link-ul catre prezentarea functionala si explicarea codului sursa (durata maxima 5-7 minute):
-[INTRODUCE AICI LINK-UL DE YOUTUBE SAU DRIVE DUPA CE FILMEZI]
